@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,OAAQ;EACN,UAAU,EAAE,iBAAiB;;AAG7B,6BAAqB;EACnB,WAAW,EAAE,IAAI;EACjB,MAAM,EAAE,OAAO;EACf,kEAAuC;IACrC,KAAK,EAAE,KAAK;EAEd,kEAAuC;IACrC,KAAK,EAAE,GAAG",
+"sources": ["microbes.scss"],
+"names": [],
+"file": "microbes.css"
+}

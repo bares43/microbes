@@ -1,0 +1,7 @@
+name: microbes
+dependencies:
+  sprintf: "^1.0.8"
+  vector_math: any
+
+dev_dependencies:
+  test: "^0.12.10+2"

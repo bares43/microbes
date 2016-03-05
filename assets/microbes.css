@@ -1,0 +1,12 @@
+.canvas {
+  box-shadow: black 1px 1px 5px; }
+
+.control .control__info__play {
+  font-weight: bold;
+  cursor: pointer; }
+  .control .control__info__play.control__info__button__play--stopped {
+    color: green; }
+  .control .control__info__play.control__info__button__play--running {
+    color: red; }
+
+/*# sourceMappingURL=microbes.css.map */
